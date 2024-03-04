@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter | Java<br>💬 Enjoy solving DSA problems sometimes<br>
+🌱 I’m currently learning Flutter | Java<br>
 
 
 ## 🌐 Socials:
