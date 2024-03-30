@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter | Java Developer
+Flutter | Java Developer<br>
 🌱 I’m a highly passionate developer currently learning Flutter and working on various live projects for my startup and other instituitions. I have experience projects like Chat aplications, E-Commerce applications, Landing Pages, and others with full fledged front-ends and backends.<br>
 <br>
 
